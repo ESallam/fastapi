@@ -15,3 +15,5 @@ uvicorn
 websockets
 wrapt
 uvloop
+pillow
+requests
